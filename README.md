@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simran Yadav
-- 👀 I’m interested in Competitive Coding.
+- 👀 I’m interested in Blockchain and Competitive Coding.
 - 🌱 I’m currently learning Backend Development.
-- 💞️ I’m looking to collaborate on many projects.
+- 💞️ I’m looking to collaborate on many interesting projects.
 - 📫 How to reach me https://github.com/simran1002
 
 <!---
