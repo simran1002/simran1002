@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Node-JS<br><br>🌱 I’m currently learning Blockchain<br><br>👯 I’m looking to collaborate on Open Source Contribution<br><br>🤝 I’m looking for help with Expert -Data Analyst and ML enthusiast<br><br>💬 Ask me about anything<br><br>📫 How to reach me simranyadav464@gmail.com<br><br><br>
+<p align="center"> <img src="dev-working.gif" alt="dev-image"/> </p>
 
 
 ## 🌐 Socials:
