@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Backend Developer.<br><br>🌱 I’m currently exploring Blockchain Development<br><br>👯 I’m looking forward for collaborating on many Open Source Contributions <br><br>🤝 I’m looking for help with Expert -Data Analyst and ML enthusiast<br><br>💬 Ask me about anything here<br><br>📫 How to reach me simranyadav464@gmail.com<br><br><br>
+🔭 I’m a Backend Developer<br><br>🌱 I’m currently exploring Blockchain Development<br><br>👯 I’m looking forward for collaborating on many Open Source Contributions <br><br>🤝 I’m looking for help with Expert -Data Analyst and ML enthusiast<br><br>💬 Ask me about anything here<br><br>📫 How to reach me simranyadav464@gmail.com<br><br><br>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="simran1002" /> </p>
 
