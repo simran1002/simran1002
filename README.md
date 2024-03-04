@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m a Backend(Node.js) Developer<br><br>🌱 I’m currently exploring Blockchain Development<br><br>👯 I’m looking forward to collaborating on many Open Source Projects.<br><br>🤝 I’m looking for help with Expert -Data Analyst and ML enthusiast<br><br>💬 Ask me about anything here<br><br>📫 How to reach me simranyadav464@gmail.com
 
+<p align="left"> <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="simran1002" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/simran.ydv10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simran-yadav-10s/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@simran2131056) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/simranyadav464) 
