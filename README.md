@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 from life import Creativity
 
 class Life(Creativity):
@@ -13,7 +14,6 @@ class Life(Creativity):
     
     def contact_me(self):
         self.email = "simranyadav464@gmail.com"
- 
 if '__repo__' == '__helpful__':
     star.it()
     fork.it()
