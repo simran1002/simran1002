@@ -36,17 +36,17 @@ if '__repo__' == '__helpful__':
 ![](https://github-readme-streak-stats.herokuapp.com/?user=simran1002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simran1002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simran1002&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=simran1002&limit=5&theme=dark&combine_all_yearly_contributions=true)
