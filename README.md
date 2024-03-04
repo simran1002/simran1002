@@ -10,12 +10,12 @@ class Life(Creativity):
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "MERN Stack & Android 📚"
-        self.currently_working_on = "Flutter 🌱"
-        self.excited_for = "Internt of Things 🌎"
+        self.currently_learning = " Blockchain 📚"
+        self.currently_working_on = "Backend(Node.js) Development🌱"
+        self.excited_for = "Machine Learning 🌎"
     
     def contact_me(self):
-        self.email = "gauravpandey495@gmail.com"
+        self.email = "simranyadav464@gmail.com"
  
 if '__repo__' == '__helpful__':
     star.it()
