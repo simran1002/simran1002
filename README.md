@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m a Backend(Node.js) Developer<br><br>🌱 I’m currently exploring Blockchain Development<br><br>👯 I’m looking forward to collaborating on many Open Source Projects.<br><br>🤝 I’m looking for help with Expert -Data Analyst and ML enthusiast<br><br>💬 Ask me about anything here<br><br>📫 How to reach me simranyadav464@gmail.com
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = " Blockchain 📚"
+        self.currently_working_on = "Backend(Node.js) Development 🌱"
+        self.excited_for = "Machine Learning 🌎"
+    
+    def contact_me(self):
+        self.email = "simranyadav464@gmail.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="simran1002" /> </p>
 
