@@ -1,10 +1,10 @@
 <!--Header Name-->
 <h1 align="center"> Hi 👋, My name is Simran Yadav  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">Building dynamic web solutions with a full stack of skills.</h3>
+<h3 align="center">Building dynamic web solutions</h3>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran1002&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=simran1002&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simran1002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
