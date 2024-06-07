@@ -3,26 +3,16 @@
 *Developer / Programmer*
 <br /> 
 
-```python
-from life import Creativity
+<h3 align="center">Building dynamic web solutions with a full stack of skills.</h3>
 
-class Life(Creativity):
-    def __init_life__(self):
-        self.current_job_title = "___"
-        self.open_for_opportunity = True
 
-    def current_projects(self):
-        self.currently_learning = " Blockchain 📚"
-        self.currently_working_on = "Backend(Node.js) Development🌱"
-        self.excited_for = "Machine Learning 🌎"
-    
-    def contact_me(self):
-        self.email = "simranyadav464@gmail.com"
- 
-if '__repo__' == '__helpful__':
-    star.it()
-    fork.it()
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simran1002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simran1002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/simran.ydv10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simran-yadav-10s/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@simran2131056) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/simranyadav464) 
