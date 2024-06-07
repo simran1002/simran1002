@@ -1,7 +1,6 @@
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <h1 align="center">Hi 👋, I'm Simran Yadav</h1>
+# <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi 👋, I'm Simran Yadav</h1>
 *Developer / Programmer*
-
 <br /> 
 
 ```python
