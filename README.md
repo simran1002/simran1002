@@ -1,6 +1,6 @@
 <!--Header Name-->
 <h1 align="center"> Hi 👋, My name is Simran Yadav  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">Building dynamic web solutions</h3>
+<h3 align="center">Building Dynamic Web Solutions !!</h3>
 
 
 <div align="center">
