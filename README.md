@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/simran1002/simran1002/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<div align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simran1002&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
@@ -38,3 +38,4 @@
 [![](https://visitcount.itsvg.in/api?id=simran1002&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
